@@ -6,3 +6,7 @@
 //
 
 import SwiftUI
+
+class AddCustomHabitViewModel: ObservableObject {
+    
+}
